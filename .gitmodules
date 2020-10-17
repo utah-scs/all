@@ -1,6 +1,6 @@
 [submodule "shenango"]
 	path = shenango
-	url = git@github.com:shenango/shenango.git
+	url = git@github.com:utah-scs/shenango.git
 [submodule "memcached"]
 	path = memcached
 	url = git@github.com:shenango/memcached.git
